@@ -15,3 +15,4 @@ add something.
 =======
 test stash.
 >>>>>>> Stashed changes
+adjust online, please git pull first, then do "git push origin master".
