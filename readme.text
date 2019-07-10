@@ -10,4 +10,8 @@ Add a line through master.
 Add a branch dev.
 Add something through by bob through dev branch.
 Add something through by Tom.
+<<<<<<< Updated upstream
 add something.
+=======
+test stash.
+>>>>>>> Stashed changes
