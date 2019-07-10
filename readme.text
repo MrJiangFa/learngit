@@ -12,3 +12,8 @@ Add something through by bob through dev branch.
 Add something through by Tom.
 add something.
 test stash.
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+adjust online, please git pull first, then do "git push origin master".
+>>>>>>> 4dc71c30e655eeb1131d3342b594f544933d62af
